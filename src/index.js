@@ -1,5 +1,4 @@
-
-const blocklist = require("./blocklist.json")
+const blocklist = require("./blocklist.js")
 module.exports = {
     all: blocklist
 }
