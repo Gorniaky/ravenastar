@@ -1,0 +1,21 @@
+{
+  "name": "ravenastar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ravenastar"
+  ],
+  "contributors": [
+    "RavenaStar (https://github.com/ravenastar-js)"
+  ],
+  "homepage": "https://github.com/ravenastar-js/shortlinks-scams",
+  "author": "ravenastar-js",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
