@@ -1,16 +1,12 @@
 {
   "name": "ravenastar",
-  "version": "1.0.3",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.5",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "ravenastar"
-  ],
-  "contributors": [
-    "RavenaStar (https://github.com/ravenastar-js)"
   ],
   "homepage": "https://github.com/ravenastar-js/shortlinks-scams",
   "author": "ravenastar-js",
